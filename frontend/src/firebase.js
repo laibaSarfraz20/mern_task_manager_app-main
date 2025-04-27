@@ -7,11 +7,11 @@ import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-  authDomain: "task-manager-c9dda.firebaseapp.com",
-  projectId: "task-manager-c9dda",
-  storageBucket: "task-manager-c9dda.appspot.com",
-  messagingSenderId: "252343493674",
-  appId: "1:252343493674:web:15f42600d70c7ce99e8f53",
+  authDomain: "loginsignup-83773.firebaseapp.com",
+  projectId: "loginsignup-83773",
+  storageBucket: "loginsignup-83773.firebasestorage.app",
+  messagingSenderId: "800072638687",
+  appId: "1:800072638687:web:8d4b748c629e3d8cf2c96a",
 };
 
 // Initialize Firebase
