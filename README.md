@@ -144,20 +144,6 @@ In the project directories, you can run:
 ## 🐛 Known Issues
 
 - Minor alignment issues with the search button and add task button.
-- A small bug with cookies in production when using JWT (will be fixed soon).
-
-## 🤝 Contributing
-
-Feel free to fork the repository, submit issues, or make pull requests. Any contributions are welcome!
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 👨‍💻 Author
-
-**Razak** - [GitHub](https://github.com/razak571)
-
----
+- A small bug with cookies in production when using JWT (will be fixed soon)
 
 ⭐️ If you found this project helpful, please give it a star on GitHub! ⭐️
